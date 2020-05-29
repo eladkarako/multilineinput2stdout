@@ -1,0 +1,16 @@
+*.class       binary
+*.jar         binary
+
+*.properties  text    eol=crlf
+
+*.xml         text    eol=crlf
+
+*.form        text    eol=crlf
+
+*.txt         text    eol=crlf
+
+*.text        text    eol=crlf
+
+*.java        text    eol=crlf
+
+README.md           eol=crlf
